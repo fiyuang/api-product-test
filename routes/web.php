@@ -27,5 +27,8 @@ $router->post('/logout', ['as' => 'logout', 'uses' => 'Auth\AuthController@logou
 $router->group(['middleware' => ['jwt.auth']], function($router) {
     $router->group(['prefix' => 'product'], function () use ($router) {
         $router->get('/', 'ProductController@index');
+        $router->post('/', 'ProductController@invoke');
+        $router->get('/{id}', 'ProductController@detail');
+        $router->delete('/{id}', 'ProductController@delete');
     });
 });
