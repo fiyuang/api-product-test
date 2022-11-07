@@ -7,10 +7,7 @@
 A simple API Product with CRUD function and JWT auth.
 
 # Features
-This API developed by PHP 8.0 with Lumen Framework 9.0
-
-# Screenshots
- <img src="https://drive.google.com/file/d/1nmKbAJAY1cZxme9p98ERjOUEdheiFKRT"> <img src="https://drive.google.com/file/d/16eMpkatFgfy5PJexRqFFnSKAMvvB0y-C/view?usp=sharing"> <img src="https://drive.google.com/file/d/1GNKrm-xYOnIMthvZsxl4P0swdWEZqGsD/view?usp=share_link"> <img src="https://drive.google.com/file/d/1OAAW4AFEicDr4YWL6ku_ZKHE_baDisOE/view?usp=share_link"> <img src="https://drive.google.com/file/d/1epauUI0eACNXJ0Yr15oQh_bd1fJmASdr/view?usp=share_link">
+This API developed with PHP 8.0, Lumen Framework 9.0
  
 # Tech Used
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -46,6 +43,7 @@ The program will run on http://localhost:8000
 | DELETE | localhost:8000/product/{id}  | Delete a Product |
  
 
-
+# Screenshots
+ <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.50.32.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.50.42.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.50.53.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.51.01.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.51.11.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.51.22.png"> <img src="https://raw.githubusercontent.com/fiyuang/api-product-test/master/Screen%20Shot%202022-11-07%20at%2008.51.40.png">
       
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
